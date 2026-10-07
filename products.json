@@ -1,0 +1,10 @@
+{
+  "products": [
+    {
+      "initial": 1,
+      "name": "example product",
+      "url": "https://www.alternate.de/",
+      "target_price": 100.00
+    }
+  ]
+}
